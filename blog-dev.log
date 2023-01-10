@@ -1,0 +1,5 @@
+2023-01-10 19:20:46.183  INFO 22720 --- [main] c.e.l.m.MyPracticesApplication           : Starting MyPracticesApplication using Java 18.0.2.1 on huashuoFX7 with PID 22720 (H:\weishenme-main\weishenme-main (4)\Practices\target\classes started by admin in H:\weishenme-main\weishenme-main (4)\Practices)
+2023-01-10 19:20:46.190 DEBUG 22720 --- [main] c.e.l.m.MyPracticesApplication           : Running with Spring Boot v2.7.6, Spring v5.3.24
+2023-01-10 19:20:46.191  INFO 22720 --- [main] c.e.l.m.MyPracticesApplication           : The following 1 profile is active: "dev"
+2023-01-10 19:20:50.929  WARN 22720 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-01-10 19:20:51.345  INFO 22720 --- [main] c.e.l.m.MyPracticesApplication           : Started MyPracticesApplication in 5.88 seconds (JVM running for 7.408)
